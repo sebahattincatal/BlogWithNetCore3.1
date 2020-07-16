@@ -1,7 +1,20 @@
 namespace blog.data.models
 {
-    public class CoreEntity
+
+    using System;
+    using System.ComponentModel.DataAnnotations;
+
+    public interface ICoreEntity {}
+
+    public class CoreEntity : ICoreEntity
     {
-        
+
+        public CoreEntity()
+        {
+            this.Id = Guid.NewGuid();
+        }
+
+        [Key]
+        public Guid Id { get; set; }
     }
 }

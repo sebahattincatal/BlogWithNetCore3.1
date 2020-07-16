@@ -3,7 +3,6 @@ namespace blog.data.models
     using System;
     public class PostImage : CoreEntity
     {
-        public Guid Id { get; set; }
         public string ImageUrl { get; set; }
 
         public bool Active { get; set; }
