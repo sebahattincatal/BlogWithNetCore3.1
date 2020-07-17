@@ -1,0 +1,9 @@
+C:\Users\Sebo\Desktop\blog\blog.data\obj\Debug\netcoreapp3.1\blog.data.csprojAssemblyReference.cache
+C:\Users\Sebo\Desktop\blog\blog.data\obj\Debug\netcoreapp3.1\blog.data.AssemblyInfoInputs.cache
+C:\Users\Sebo\Desktop\blog\blog.data\obj\Debug\netcoreapp3.1\blog.data.AssemblyInfo.cs
+C:\Users\Sebo\Desktop\blog\blog.data\obj\Debug\netcoreapp3.1\blog.data.csproj.CoreCompileInputs.cache
+C:\Users\Sebo\Desktop\blog\blog.data\bin\Debug\netcoreapp3.1\blog.data.deps.json
+C:\Users\Sebo\Desktop\blog\blog.data\bin\Debug\netcoreapp3.1\blog.data.dll
+C:\Users\Sebo\Desktop\blog\blog.data\bin\Debug\netcoreapp3.1\blog.data.pdb
+C:\Users\Sebo\Desktop\blog\blog.data\obj\Debug\netcoreapp3.1\blog.data.dll
+C:\Users\Sebo\Desktop\blog\blog.data\obj\Debug\netcoreapp3.1\blog.data.pdb

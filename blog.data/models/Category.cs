@@ -9,6 +9,6 @@ namespace blog.data.models {
         [Required, MaxLength(50)]
         public string Name { get; set; }
 
-        public virtual ICollection<Post> Posts { get; set; } // bir kategorinin birden fazla postu olabilir
+        public virtual ICollection<Post> Posts { get; set; } // bir kategorinin birden fazla postu olabilir. virtual keywordünü lazy loading yapabilmek için belirttik
     }
 }
