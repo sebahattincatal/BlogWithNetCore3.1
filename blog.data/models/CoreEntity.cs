@@ -6,7 +6,7 @@ namespace blog.data.models
 
     public interface ICoreEntity {}
 
-    public class CoreEntity : ICoreEntity
+    public abstract class CoreEntity : ICoreEntity
     {
 
         public CoreEntity()
